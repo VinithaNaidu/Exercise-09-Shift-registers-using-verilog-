@@ -70,7 +70,9 @@ Run the program and choose RTL viewer to get RTL realization.
 
 Program for  Implementation-of Shift-registers-using-verilog-
 
+
 Developed by: D.VINITHA NAIDU
+
 RegisterNumber:  212222230175
 
 ```
@@ -125,12 +127,14 @@ endmodule
 
 # RTL LOGIC  REGISTERS   
 ### PISO:
-![image](https://github.com/VinithaNaidu/Exercise-09-Shift-registers-using-verilog-/assets/121166004/743c435a-0ace-420a-b62e-dbaa79a69c2d)
-### PIPO:
-![image](https://github.com/VinithaNaidu/Exercise-09-Shift-registers-using-verilog-/assets/121166004/311454a9-e7b8-422d-9aad-12ecf18e8d6c)
-### SIPO:
-![image](https://github.com/VinithaNaidu/Exercise-09-Shift-registers-using-verilog-/assets/121166004/9f48bb59-660f-4277-9d3f-3b82fc9e0220)
+![image](https://github.com/VinithaNaidu/Exercise-09-Shift-registers-using-verilog-/assets/121166004/ede97bc8-589c-4b89-89fc-f3875b969748)
 
+### PIPO:
+![image](https://github.com/VinithaNaidu/Exercise-09-Shift-registers-using-verilog-/assets/121166004/e7f7d43f-d581-44db-b898-f3c0259f113b)
+
+### SIPO:
+
+![image](https://github.com/VinithaNaidu/Exercise-09-Shift-registers-using-verilog-/assets/121166004/8c889538-bfad-400a-a65a-7a0420c08ff9)
 
 
 
@@ -142,13 +146,13 @@ endmodule
 
 # TIMING DIGRAMS FOR SHIFT REGISTERS
 ### PISO:
-![image](https://github.com/VinithaNaidu/Exercise-09-Shift-registers-using-verilog-/assets/121166004/8ac905aa-f345-49c5-b718-1ce89ce767e2)
+![image](https://github.com/VinithaNaidu/Exercise-09-Shift-registers-using-verilog-/assets/121166004/7dd5076c-48ac-4c18-b61e-70edb5ce5bbe)
+
 ### PIPO:
-![image](https://github.com/VinithaNaidu/Exercise-09-Shift-registers-using-verilog-/assets/121166004/72084efe-4360-4932-9245-cdd3da9fc4be)
+![image](https://github.com/VinithaNaidu/Exercise-09-Shift-registers-using-verilog-/assets/121166004/94f1a64a-1dd2-4193-9caa-cb765d26b4d0)
+
 ### SIPO:
-![image](https://github.com/VinithaNaidu/Exercise-09-Shift-registers-using-verilog-/assets/121166004/0931a156-37c4-425b-9730-aa1ed28a007c)
-
-
+![image](https://github.com/VinithaNaidu/Exercise-09-Shift-registers-using-verilog-/assets/121166004/d9fb961e-e752-4089-8f61-020231ff22e5)
 
 
 
